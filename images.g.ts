@@ -322,40 +322,6 @@ ffffffffffffffffffffffffffffffffffffffffffffebbbbbbbbbbbdddbbbbbbbbbbbbeeeeeeeeb
 fffffffffffffffffffffffffffffffffffffffffffffebbbbbbbbbbdddbbbbbbbbbbbbbbeeeebbbbbbbbbbbbbbbbbcfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 fffffffffffffffffffffffffffffffffffffffffffffebbbbbbbbbbbdddbbbbbbbbbbbbeeeebbbbbbbbbbbbbbbbbeffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 `;
-            case "image3":
-            case "twitterLogo":return img`
-.............969999...99
-99..........99999999999.
-999........9999999999999
-9999.......9999999999999
-999999.....999999999999.
-699999999..99999999996..
-9999999999999999999999..
-6999999999999999999999..
-9999999999999999999999..
-999999999999999999999...
-.69999999999999999999...
-..9999999999999999999...
-..699999999999999996....
-..699999999999999999....
-...9999999999999999.....
-....96999999999999......
-....9999999999999.......
-9999999999999999........
-69999999999996..........
-..9999999999............
-`;
-            case "image1":
-            case "catcher":return img`
-8 8 8 8 8 8 8 8 8 8 8 8 8 . . . 8 8 8 8 8 8 8 8 8 8 8 8 8 8 
-8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 
-. 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 . 
-. 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 . 
-. . . 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 . . . 
-. . . . 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 . . . . 
-. . . . 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 . . . . 
-. . . . . . 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 . . . . . . 
-`;
             case "image4":
             case "ElonMidSize0":return img`
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
@@ -478,6 +444,63 @@ ffffffffffffffffffffffffffffffffffffffffffffebbbbbbbbbbbddbbbbbbbbbbbbbeeeeeeeee
 ffffffffffffffffffffffffffffffffffffffffffffebbbbbbbbbbbdddbbbbbbbbbbbbeeeeeeeebbbbbbbbbbbbbbbefffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 fffffffffffffffffffffffffffffffffffffffffffffebbbbbbbbbbdddbbbbbbbbbbbbbbeeeebbbbbbbbbbbbbbbbbcfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 fffffffffffffffffffffffffffffffffffffffffffffebbbbbbbbbbbdddbbbbbbbbbbbbeeeebbbbbbbbbbbbbbbbbeffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+`;
+            case "image1":
+            case "catcher":return img`
+1 1 1 1 1 1 1 1 1 1 1 1 1 . . . 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+. 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 . 
+. 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 . 
+. . . 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 . . . 
+. . . . 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 . . . . 
+. . . . 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 . . . . 
+. . . . . . 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 . . . . . . 
+`;
+            case "image3":
+            case "twitterLogoR":return img`
+.............969999...99
+99..........99999999999.
+999........9999999999999
+9999.......9999999999999
+999999.....999999999999.
+699999999..99999999996..
+9999999999999999999999..
+6999999999999999999999..
+9999999999999999999999..
+999999999999999999999...
+.69999999999999999999...
+..9999999999999999999...
+..699999999999999996....
+..699999999999999999....
+...9999999999999999.....
+....96999999999999......
+....9999999999999.......
+9999999999999999........
+69999999999996..........
+..9999999999............
+`;
+            case "image5":
+            case "twitterLogoL":return img`
+99...999969.............
+.99999999999..........99
+9999999999999........999
+9999999999999.......9999
+.999999999999.....999999
+..69999999999..999999996
+..9999999999999999999999
+..9999999999999999999996
+..9999999999999999999999
+...999999999999999999999
+...99999999999999999996.
+...9999999999999999999..
+....699999999999999996..
+....999999999999999996..
+.....9999999999999999...
+......99999999999969....
+.......9999999999999....
+........9999999999999999
+..........69999999999996
+............9999999999..
 `;
         }
         return null;
