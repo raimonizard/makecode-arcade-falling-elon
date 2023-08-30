@@ -19,11 +19,11 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.12.35",
+        "target": "1.12.37",
         "targetId": "arcade"
     },
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "pyprj"
 }
