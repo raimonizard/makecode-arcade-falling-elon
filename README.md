@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://raimonizard.github.io/makecode-arcade-falling-elon/](https://raimonizard.github.io/makecode-arcade-falling-elon/)
+> Open this page at [https://raimonizard.github.io/falling-elon-makecode-arcade/](https://raimonizard.github.io/falling-elon-makecode-arcade/)
 
 ## Use as Extension
 
@@ -18,7 +18,7 @@ To edit this repository in MakeCode.
 
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/raimonizard/makecode-arcade-falling-elon** and click import
+* paste **https://raimonizard.github.io/falling-elon-makecode-arcade/** and click import
 
 ## Blocks preview
 
