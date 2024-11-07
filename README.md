@@ -1,7 +1,7 @@
- 
+# README 
 
 
-> Open this page at [https://raimonizard.github.io/falling-elon-makecode-arcade/](https://raimonizard.github.io/falling-elon-makecode-arcade/)
+> Open this page at [https://raimonizard.github.io/falling-elon-makecode-arcade/](https://raimonizard.github.io/makecode-arcade-falling-elon/)
 
 ## Use as Extension
 
